@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: swagger.groovy
+---
+testFramework: spock
+sourceLanguage: groovy
